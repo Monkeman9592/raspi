@@ -1,0 +1,1 @@
+Image $1 = Image.open("United_States_one-dollar_bill"); myImage.show();
